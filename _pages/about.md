@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Eliška, a junior developer with a fresh perspective and a love for turning complex problems into clean, efficient code. I thrive on debugging challenges and enjoy making tangible progress, one commit at a time. My experience in digital marketing taught me to think about the end-user, while my current role as a Junior Developer at OUSHI UPOL allows me to build and refine applications. I built this site to put my skills in HTML, CSS, version control, and CI/CD into practice, and because I'm genuinely excited to build things that work and look good. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
