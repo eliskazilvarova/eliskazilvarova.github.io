@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eliskazilvarova.github.io/sitemap.xml
+Sitemap: https://eliskazilvarova.github.io/al-folio/sitemap.xml
