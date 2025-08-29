@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Shoot to the moon - even if oyu miss, you'll land among the stars.:)
 
 profile:
   align: right
