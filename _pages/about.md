@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Shoot to the moon - even if oyu miss, you'll land among the stars.:)
+subtitle: Shoot to the moon - even if you miss, you'll land among the stars.:)
 
 profile:
   align: right
