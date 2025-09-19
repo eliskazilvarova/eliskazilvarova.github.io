@@ -6,15 +6,8 @@
     <description>Recent content in Blog on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Sep 2025 15:24:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/blog/my-first-blog-post/</link>
-      <pubDate>Fri, 19 Sep 2025 15:24:29 +0200</pubDate>
-      <guid>http://localhost:1313/blog/my-first-blog-post/</guid>
-      <description>&lt;p&gt;So, this is it - my first blog post created in VS code with md. I will try to use this post to upload here images and other stuff, just to se the proper functionality.. :)&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Support for Multiple Authors</title>
       <link>http://localhost:1313/blog/multi-author/</link>
