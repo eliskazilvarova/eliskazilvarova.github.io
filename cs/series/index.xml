@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Portfolio | Eliška Z.</title>
-    <link>http://localhost:1313/cs/series/</link>
+    <link>https://eliskazilvarova.github.io/cs/series/</link>
     <description>Recent content in Series on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>cs</language>
     <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/cs/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eliskazilvarova.github.io/cs/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quickstart</title>
-      <link>http://localhost:1313/cs/series/quickstart/</link>
+      <link>https://eliskazilvarova.github.io/cs/series/quickstart/</link>
       <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
-      <guid>http://localhost:1313/cs/series/quickstart/</guid>
+      <guid>https://eliskazilvarova.github.io/cs/series/quickstart/</guid>
       <description></description>
     </item>
     <item>
       <title>Example Posts</title>
-      <link>http://localhost:1313/cs/series/example-posts/</link>
+      <link>https://eliskazilvarova.github.io/cs/series/example-posts/</link>
       <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
-      <guid>http://localhost:1313/cs/series/example-posts/</guid>
+      <guid>https://eliskazilvarova.github.io/cs/series/example-posts/</guid>
       <description></description>
     </item>
   </channel>

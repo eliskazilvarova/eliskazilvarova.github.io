@@ -2,242 +2,237 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64457/projects.hidden/photography/</loc>
+    <loc>https://eliskazilvarova.github.io/projects.hidden/photography/</loc>
   </url><url>
-    <loc>http://localhost:64457/projects.hidden/design/</loc>
+    <loc>https://eliskazilvarova.github.io/projects.hidden/design/</loc>
   </url><url>
-    <loc>http://localhost:64457/projects.hidden/writing/</loc>
+    <loc>https://eliskazilvarova.github.io/projects.hidden/writing/</loc>
   </url><url>
-    <loc>http://localhost:64457/blog/</loc>
+    <loc>https://eliskazilvarova.github.io/blog/</loc>
     <lastmod>2025-09-19T15:24:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/"
+                href="https://eliskazilvarova.github.io/cs/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/"
+                href="https://eliskazilvarova.github.io/blog/"
                 />
   </url><url>
-    <loc>http://localhost:64457/</loc>
+    <loc>https://eliskazilvarova.github.io/</loc>
     <lastmod>2025-09-19T15:24:29+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/"
+                href="https://eliskazilvarova.github.io/cs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/"
+                href="https://eliskazilvarova.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:64457/tags/blog/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/tags/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/tags/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/tags/features/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/tags/features/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/tags/features/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/series/quickstart/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/series/quickstart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/series/quickstart/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/series/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/series/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/blog/multi-author/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/blog/multi-author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/blog/multi-author/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/tags/</loc>
-    <lastmod>2022-02-21T16:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="http://localhost:64457/cs/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:64457/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:64457/series/example-posts/</loc>
+    <loc>https://eliskazilvarova.github.io/series/example-posts/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/series/example-posts/"
+                href="https://eliskazilvarova.github.io/cs/series/example-posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/series/example-posts/"
+                href="https://eliskazilvarova.github.io/series/example-posts/"
                 />
   </url><url>
-    <loc>http://localhost:64457/tags/images/</loc>
+    <loc>https://eliskazilvarova.github.io/tags/images/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/tags/images/"
+                href="https://eliskazilvarova.github.io/cs/tags/images/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/tags/images/"
+                href="https://eliskazilvarova.github.io/tags/images/"
                 />
   </url><url>
-    <loc>http://localhost:64457/blog/coffee-ipsum/</loc>
+    <loc>https://eliskazilvarova.github.io/blog/coffee-ipsum/</loc>
     <lastmod>2022-02-20T12:04:16-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/coffee-ipsum/"
+                href="https://eliskazilvarova.github.io/cs/blog/coffee-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/coffee-ipsum/"
+                href="https://eliskazilvarova.github.io/blog/coffee-ipsum/"
                 />
   </url><url>
-    <loc>http://localhost:64457/blog/configuration/</loc>
+    <loc>https://eliskazilvarova.github.io/series/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://eliskazilvarova.github.io/cs/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://eliskazilvarova.github.io/series/"
+                />
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/tags/</loc>
+    <lastmod>2022-02-20T12:04:16-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://eliskazilvarova.github.io/cs/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://eliskazilvarova.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/blog/configuration/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/configuration/"
+                href="https://eliskazilvarova.github.io/cs/blog/configuration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/configuration/"
+                href="https://eliskazilvarova.github.io/blog/configuration/"
                 />
   </url><url>
-    <loc>http://localhost:64457/tags/code/</loc>
+    <loc>https://eliskazilvarova.github.io/tags/code/</loc>
     <lastmod>2020-07-25T02:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/tags/code/"
+                href="https://eliskazilvarova.github.io/cs/tags/code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/tags/code/"
+                href="https://eliskazilvarova.github.io/tags/code/"
                 />
   </url><url>
-    <loc>http://localhost:64457/blog/long-form-post/</loc>
+    <loc>https://eliskazilvarova.github.io/tags/features/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://eliskazilvarova.github.io/cs/tags/features/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://eliskazilvarova.github.io/tags/features/"
+                />
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/series/quickstart/</loc>
+    <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://eliskazilvarova.github.io/cs/series/quickstart/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://eliskazilvarova.github.io/series/quickstart/"
+                />
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/tags/blog/</loc>
     <lastmod>2019-05-30T20:18:53-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/long-form-post/"
+                href="https://eliskazilvarova.github.io/cs/tags/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/long-form-post/"
+                href="https://eliskazilvarova.github.io/tags/blog/"
                 />
   </url><url>
-    <loc>http://localhost:64457/tags/markdown/</loc>
+    <loc>https://eliskazilvarova.github.io/blog/long-form-post/</loc>
+    <lastmod>2019-05-30T20:18:53-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://eliskazilvarova.github.io/cs/blog/long-form-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://eliskazilvarova.github.io/blog/long-form-post/"
+                />
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/tags/markdown/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/tags/markdown/"
+                href="https://eliskazilvarova.github.io/cs/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/tags/markdown/"
+                href="https://eliskazilvarova.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>http://localhost:64457/blog/startup-ipsum/</loc>
+    <loc>https://eliskazilvarova.github.io/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/startup-ipsum/"
+                href="https://eliskazilvarova.github.io/cs/blog/startup-ipsum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/startup-ipsum/"
+                href="https://eliskazilvarova.github.io/blog/startup-ipsum/"
                 />
   </url><url>
-    <loc>http://localhost:64457/blog/no-date/</loc>
+    <loc>https://eliskazilvarova.github.io/tags/airport/</loc>
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/blog/solo-travelling-1/</loc>
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/tags/spain/</loc>
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/tags/travelling/</loc>
+  </url><url>
+    <loc>https://eliskazilvarova.github.io/blog/no-date/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/blog/no-date/"
+                href="https://eliskazilvarova.github.io/cs/blog/no-date/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/blog/no-date/"
+                href="https://eliskazilvarova.github.io/blog/no-date/"
                 />
   </url><url>
-    <loc>http://localhost:64457/tags/words/</loc>
+    <loc>https://eliskazilvarova.github.io/tags/words/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
-                href="http://localhost:64457/cs/tags/words/"
+                href="https://eliskazilvarova.github.io/cs/tags/words/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:64457/tags/words/"
+                href="https://eliskazilvarova.github.io/tags/words/"
                 />
   </url>
 </urlset>
