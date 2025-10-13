@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Portfolio | Eliška Z.</title>
-    <link>http://localhost:1313/projects.hidden/</link>
+    <link>http://localhost:50231/projects.hidden/</link>
     <description>Recent content in Projects on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/projects.hidden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50231/projects.hidden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
-      <link>http://localhost:1313/projects.hidden/photography/</link>
+      <link>http://localhost:50231/projects.hidden/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects.hidden/photography/</guid>
+      <guid>http://localhost:50231/projects.hidden/photography/</guid>
       <description>&lt;h2 id=&#34;sometimes-i-take-pictures&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#sometimes-i-take-pictures&#34;&gt;Sometimes I take pictures&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This project is about the pictures I take. Sometimes, they are pictures of cats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://localhost:1313/projects.hidden/design/</link>
+      <link>http://localhost:50231/projects.hidden/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects.hidden/design/</guid>
+      <guid>http://localhost:50231/projects.hidden/design/</guid>
       <description>&lt;p&gt;This theme was designed by &lt;a href=&#34;https://victoria.dev&#34;&gt;Victoria Drake&lt;/a&gt;. Go on, explore! 💪&lt;/p&gt;&#xA;&lt;p&gt;If you want to use it for your website, check out the section at the bottom of the main page. 👍&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Writing</title>
-      <link>http://localhost:1313/projects.hidden/writing/</link>
+      <title>How to add images to this theme</title>
+      <link>http://localhost:50231/projects.hidden/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects.hidden/writing/</guid>
-      <description>&lt;p&gt;Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.&lt;/p&gt;&#xA;&lt;p&gt;To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop. Latte instant black extra aroma, instant, extra robusta variety skinny shop aged cup ristretto foam cortado. Bar galão skinny saucer est affogato sugar caffeine chicory sugar coffee, seasonal barista french press acerbic in chicory robust.&lt;/p&gt;</description>
+      <guid>http://localhost:50231/projects.hidden/writing/</guid>
+      <description>&lt;p&gt;Images can be added to posts using Markdown syntax:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#268bd2&#34;&gt;Sample image&lt;/span&gt;](workday.jpg)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Which looks like this:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:50231/projects.hidden/writing/workday.jpg&#34; alt=&#34;Sample image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also use Hugo&amp;rsquo;s built-in &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#figure&#34;&gt;figure shortcode&lt;/a&gt;. This lets you add a caption, and looks like this:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:50231/projects.hidden/writing/workday.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Black and white work day photo.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Posts with images are great at capturing attention and showcasing your work. Why not try it today?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
