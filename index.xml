@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio | Eliška Z.</title>
-    <link>http://localhost:50231/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 13 Oct 2025 23:12:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:50231/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
-      <link>http://localhost:50231/projects.hidden/photography/</link>
+      <link>http://localhost:1313/projects.hidden/photography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50231/projects.hidden/photography/</guid>
+      <guid>http://localhost:1313/projects.hidden/photography/</guid>
       <description>&lt;h2 id=&#34;sometimes-i-take-pictures&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#sometimes-i-take-pictures&#34;&gt;Sometimes I take pictures&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;This project is about the pictures I take. Sometimes, they are pictures of cats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Design</title>
-      <link>http://localhost:50231/projects.hidden/design/</link>
+      <link>http://localhost:1313/projects.hidden/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50231/projects.hidden/design/</guid>
+      <guid>http://localhost:1313/projects.hidden/design/</guid>
       <description>&lt;p&gt;This theme was designed by &lt;a href=&#34;https://victoria.dev&#34;&gt;Victoria Drake&lt;/a&gt;. Go on, explore! 💪&lt;/p&gt;&#xA;&lt;p&gt;If you want to use it for your website, check out the section at the bottom of the main page. 👍&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to add images to this theme</title>
-      <link>http://localhost:50231/projects.hidden/writing/</link>
+      <link>http://localhost:1313/projects.hidden/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50231/projects.hidden/writing/</guid>
-      <description>&lt;p&gt;Images can be added to posts using Markdown syntax:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#268bd2&#34;&gt;Sample image&lt;/span&gt;](workday.jpg)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Which looks like this:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:50231/projects.hidden/writing/workday.jpg&#34; alt=&#34;Sample image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also use Hugo&amp;rsquo;s built-in &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#figure&#34;&gt;figure shortcode&lt;/a&gt;. This lets you add a caption, and looks like this:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:50231/projects.hidden/writing/workday.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Black and white work day photo.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Posts with images are great at capturing attention and showcasing your work. Why not try it today?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects.hidden/writing/</guid>
+      <description>&lt;p&gt;Images can be added to posts using Markdown syntax:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#268bd2&#34;&gt;Sample image&lt;/span&gt;](workday.jpg)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Which looks like this:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects.hidden/writing/workday.jpg&#34; alt=&#34;Sample image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;You can also use Hugo&amp;rsquo;s built-in &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#figure&#34;&gt;figure shortcode&lt;/a&gt;. This lets you add a caption, and looks like this:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/projects.hidden/writing/workday.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Black and white work day photo.&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Posts with images are great at capturing attention and showcasing your work. Why not try it today?&lt;/p&gt;</description>
     </item>
     <item>
       <title>One Way ticket 1</title>
-      <link>http://localhost:50231/blog/one-was_ticket_1/</link>
+      <link>http://localhost:1313/blog/one-was_ticket_1/</link>
       <pubDate>Mon, 13 Oct 2025 23:12:15 +0200</pubDate>
-      <guid>http://localhost:50231/blog/one-was_ticket_1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&#xA;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/one-was_ticket_1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
     </item>
     <item>
       <title>One Way Ticket 1</title>
-      <link>http://localhost:50231/blog/one-way-ticket-1/</link>
+      <link>http://localhost:1313/blog/one-way-ticket-1/</link>
       <pubDate>Mon, 13 Oct 2025 22:15:33 +0200</pubDate>
-      <guid>http://localhost:50231/blog/one-way-ticket-1/</guid>
+      <guid>http://localhost:1313/blog/one-way-ticket-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&#xA;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Blog Post</title>
-      <link>http://localhost:50231/blog/my-first-blog-post/</link>
+      <link>http://localhost:1313/blog/my-first-blog-post/</link>
       <pubDate>Fri, 19 Sep 2025 15:24:29 +0200</pubDate>
-      <guid>http://localhost:50231/blog/my-first-blog-post/</guid>
+      <guid>http://localhost:1313/blog/my-first-blog-post/</guid>
       <description>&lt;p&gt;So, this is it - my first blog post created in VS code with md. I will try to use this post to upload here images and other stuff, just to se the proper functionality.. :)&lt;/p&gt;</description>
     </item>
   </channel>
