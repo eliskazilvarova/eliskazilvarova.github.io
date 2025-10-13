@@ -6,7 +6,7 @@
     <description>Recent content on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Sep 2025 15:24:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 22:15:33 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
@@ -28,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects.hidden/writing/</guid>
       <description>&lt;p&gt;Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.&lt;/p&gt;&#xA;&lt;p&gt;To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop. Latte instant black extra aroma, instant, extra robusta variety skinny shop aged cup ristretto foam cortado. Bar galão skinny saucer est affogato sugar caffeine chicory sugar coffee, seasonal barista french press acerbic in chicory robust.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Way Ticket 1</title>
+      <link>http://localhost:1313/blog/one-way-ticket-1/</link>
+      <pubDate>Mon, 13 Oct 2025 22:15:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/one-way-ticket-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&#xA;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Blog Post</title>
@@ -63,13 +70,6 @@
       <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
       <guid>http://localhost:1313/blog/startup-ipsum/</guid>
       <description>&lt;p&gt;Introduction supports code blocks and syntax highlighting:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#93a1a1;background-color:#002b36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ complicated techie code git bash ubuntu&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;gt;&amp;gt;&amp;gt; &lt;span style=&#34;color:#719e07&#34;&gt;return&lt;/span&gt; value init foo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can easily create tables using Markdown, with rows that support readability:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;this&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: right&#34;&gt;is&lt;/th&gt;&#xA;          &lt;th&gt;a&lt;/th&gt;&#xA;          &lt;th&gt;table&lt;/th&gt;&#xA;          &lt;th&gt;!&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;this&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td&gt;the&lt;/td&gt;&#xA;          &lt;td&gt;1st&lt;/td&gt;&#xA;          &lt;td&gt;row&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;this&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td&gt;the&lt;/td&gt;&#xA;          &lt;td&gt;2nd&lt;/td&gt;&#xA;          &lt;td&gt;row&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;this&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td&gt;the&lt;/td&gt;&#xA;          &lt;td&gt;3rd&lt;/td&gt;&#xA;          &lt;td&gt;row&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;edgy&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;jo&lt;/td&gt;&#xA;          &lt;td&gt;ke&lt;/td&gt;&#xA;          &lt;td&gt;lands&lt;/td&gt;&#xA;          &lt;td&gt;here&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;this&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td&gt;the&lt;/td&gt;&#xA;          &lt;td&gt;5th&lt;/td&gt;&#xA;          &lt;td&gt;row&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;this&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: right&#34;&gt;is&lt;/td&gt;&#xA;          &lt;td&gt;the&lt;/td&gt;&#xA;          &lt;td&gt;6th&lt;/td&gt;&#xA;          &lt;td&gt;row&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Unordered lists render with high readabiltiy as well!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Solo travel diary</title>
-      <link>http://localhost:1313/blog/solo-travelling-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/solo-travelling-1/</guid>
-      <description>&lt;p&gt;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undated post</title>
