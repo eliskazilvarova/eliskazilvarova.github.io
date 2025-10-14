@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Portfolio | Eliška Z.</title>
-    <link>http://localhost:50231/blog/</link>
+    <link>https://eliskazilvarova.github.io/blog/</link>
     <description>Recent content in Blog on Portfolio | Eliška Z.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Oct 2025 23:12:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:50231/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 20:13:55 +0200</lastBuildDate>
+    <atom:link href="https://eliskazilvarova.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>One Way ticket 1</title>
-      <link>http://localhost:50231/blog/one-was_ticket_1/</link>
-      <pubDate>Mon, 13 Oct 2025 23:12:15 +0200</pubDate>
-      <guid>http://localhost:50231/blog/one-was_ticket_1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
+      <title>One Way Ticket 2</title>
+      <link>https://eliskazilvarova.github.io/blog/owt2/one-way-ticket-2/</link>
+      <pubDate>Tue, 14 Oct 2025 20:13:55 +0200</pubDate>
+      <guid>https://eliskazilvarova.github.io/blog/owt2/one-way-ticket-2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Place: Bilbao&lt;/strong&gt;&#xA;Day 2 was&amp;hellip; intense. I have to admit that the lack of sleep has taken its toll on me, and was as super exhausted! But it did not stop me from exploring what Bilbao had to offer:)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;IMG_9831.png&#34; alt=&#34;Ukazka ulic&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;History&lt;/strong&gt;&#xA;Bilbao is the largest city in the Basque country. From the Middle Ages, Bilbao was a key center for the export of wool and iron ore to other parts of Europe, and the city quickly became a major commercial hub. By the 16th century, Bilbao was one of the most important ports in Spain, and the city’s shipbuilding industry thrived. During the Industrial Revolution of the 19th century, Bilbao became a major center for iron and steel production.The city’s iron mines, which were located in the nearby mountains, provided a steady supply of raw materials, and Bilbao soon became one of the most important industrial centers in Europe. While the decline of heavy industry in the late 20th century led to economic difficulties in Bilbao, the city has managed to reinvent itself in recent years, becoming a hub for technology and innovation.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:50231/blog/my-first-blog-post/</link>
-      <pubDate>Fri, 19 Sep 2025 15:24:29 +0200</pubDate>
-      <guid>http://localhost:50231/blog/my-first-blog-post/</guid>
-      <description>&lt;p&gt;So, this is it - my first blog post created in VS code with md. I will try to use this post to upload here images and other stuff, just to se the proper functionality.. :)&lt;/p&gt;</description>
+      <title>One Way ticket 1</title>
+      <link>https://eliskazilvarova.github.io/blog/one-was_ticket_1/</link>
+      <pubDate>Mon, 13 Oct 2025 23:12:15 +0200</pubDate>
+      <guid>https://eliskazilvarova.github.io/blog/one-was_ticket_1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Place: Vienna Airport&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;It is finally here - the big journey! Unfortunately, unlike Tomas, who had a whole gap year for his journey, I have only about 14 days for mine :) But I&amp;rsquo;ll try to make the most of it.&#xA;Starting strong with my first night at the airport in Vienna. Little did I know that Vienna airport does actually have multiple terminal, and when you buy the lowcost plane ticket, you are also going to get the lowcost airport :D So, when I arrived by train to the airport, I thought that I will be spending the night in some cozy corner of the big, shiny and modern Vienna airport. Instead of it, I am sitting in &amp;ldquo;Terminal 1&amp;rdquo;, which consists of 15 chairs, 3 closed shops, and too many people waiting probably for the same plane as I am (many of them unfortunately for me, barefoot&amp;hellip;).&#xA;My plane is in 6 hours ish, so I guess I&amp;rsquo;ll try to cope with the conditions and I&amp;rsquo;ll survive until the morning - Bilbao is waiting for me!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
